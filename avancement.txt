@@ -1,0 +1,12 @@
+Descriptif : Jeu de mini put comportant plusieurs niveaux. Les flèches latérales controllent l'orientation de la caméra de gauche à droite. Les flèches verticales controllent la force du lancer. 
+
+Travail fait : 
+  - Controle de la balle
+  - Controle de la caméra
+  - Création du niveau 1
+
+À faire : 
+ - UI (force du lancer, score, etc...)
+ - Changement de niveau / recommencer le parcours si on sort du terrain
+ - Trouver quelque chose à générer procéduralement
+ - Créer plusieurs niveaux pour avoir plus de temps de jeu. 9 trous serait bien
